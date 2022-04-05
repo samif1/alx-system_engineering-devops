@@ -1,0 +1,1 @@
+for shell scripting variable
